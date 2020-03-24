@@ -16,6 +16,8 @@ then all other players play that prompt (showing an item in their space, etc.) (
 
 the chooser then picks another player to be the new chooser, and play repeats with the **new chooser**
 
+the game ends when the chooser requests players to bring a clock
+
 ## Starter Prompts
 
 ### (show =  bring to the camera / take the camera to)
