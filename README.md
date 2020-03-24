@@ -1,4 +1,4 @@
-# *Show and Tell*
+
 A simple game for video conference calls
 
 ## number of players: 3+ (the more the merrier)
